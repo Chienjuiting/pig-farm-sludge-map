@@ -1,0 +1,1 @@
+var json__2 = {"type":"FeatureCollection","name":"_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"名稱":"六輕工業區","經度":120.19174,"緯度":23.79172},"geometry":{"type":"Point","coordinates":[120.1917428,23.79171953]}}]}
